@@ -1,0 +1,21 @@
+<style>
+    #asset-tags {
+        color: blueviolet;
+        margin-left: 4px;
+        text-decoration: none;
+        margin-top: 20px;
+    }
+</style>
+<p>Local Java Class: SimpleUse</p>
+<div data-sly-test="${properties.assetpath}">
+
+    <img src="${properties.assetpath}" />
+
+
+    <div id="asset-tags" data-sly-use.obj="SimpleUse">
+        Tags:
+        <sly data-sly-list="${obj.tag}">
+            ${item}
+        </sly>
+    </div>
+</div>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>ATE Sightly - UI content</comment>
+<entry key="createdBy">prave_000</entry>
+<entry key="name">atesightly.ui.content</entry>
+<entry key="created">2016-03-26T12:52:44.689+0530</entry>
+<entry key="groupId">com.atesightly</entry>
+<entry key="version">0.0.1-SNAPSHOT</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">ATE Sightly Content Package</entry>
+<entry key="description">UI content package for ATE Sightly</entry>
+<entry key="artifactId">atesightly.ui.content</entry>
+<entry key="path">/etc/packages/ATE Sightly Content Package/atesightly.ui.content.zip</entry>
+</properties>
