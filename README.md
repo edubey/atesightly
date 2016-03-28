@@ -1,6 +1,11 @@
-# Sample AEM project template
+# AEM Ask The Expert Sightly Session on 29th March, 2016
 
-This is a project template for AEM-based applications. It is intended as a best-practice set of examples as well as a potential starting point to develop your own functionality.
+This contains:
+* Java Use API Component
+* JavaScript Use API Component
+* Sightly Template and Call Component
+* Custom Colo Picker Component
+* Multiple dynamic drop down Component
 
 ## Modules
 
